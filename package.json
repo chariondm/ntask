@@ -9,6 +9,7 @@
   "author": "Marcelo Souza <chariondm@gmail.com> (http://www.chariondm.com.br/)",
   "license": "MIT",
   "dependencies": {
+    "body-parser": "^1.6.7",
     "consign": "^0.1.2",
     "express": "^4.13.4"
   },
